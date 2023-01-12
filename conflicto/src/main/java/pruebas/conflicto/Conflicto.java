@@ -13,5 +13,6 @@ public class Conflicto {
 
     public static void main(String[] args) {
         System.out.println("push que no funciona");
+        System.out.println("CREANDO CONFLICTO");
     }
 }
